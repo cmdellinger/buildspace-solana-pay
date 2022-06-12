@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Donate $1",
+        "price": "01.00",
+        "description": "Washington Wave",
+        "image_url": "https://media.istockphoto.com/photos/wave-crashing-in-ocean-with-blue-sky-picture-id1222094389?b=1&k=20&m=1222094389&s=170667a&w=0&h=iWA5dxxm1hopALcOfeLi8F70CxIzEB28MHjKz4ih4I4=",
+        "filename": "hitchhikers whale 01.jpg",
+        "hash": "QmNVHEMKmza48fcVD7YA8GXN7vXuzcp9i2eoeBHsJknY7v"
+    },
+    {
+        "id": 2,
+        "name": "Donate $5",
+        "price": "05.00",
+        "description": "High Five",
+        "image_url": "http://www.theinertia.com/wp-content/uploads/2014/05/hgh.jpg",
+        "filename": "hitchhikers whale 05.jpg",
+        "hash": "QmWgSd9TyTHNaWPoUAUNiYyQVfrnorZYJcfnRwbQCDLm91"
+    },
+    {
+        "id": 3,
+        "name": "Donate $10",
+        "price": "10.00",
+        "description": "Hang Ten",
+        "image_url": "https://www.surfertoday.com/images/stories/biggest-waves-ever-surfed.jpg",
+        "filename": "hitchhikers whale 10.jpg",
+        "hash": "QmWAmwWRUQv8kQQnetteL7Fv8JMFqGeern9FJaju8YxwUN"
+    }
+]

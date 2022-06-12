@@ -64,6 +64,9 @@
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   max-width: 300px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .mint-button {
